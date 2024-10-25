@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9b45c75-34cb-4aed-935e-65b88d66e81f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/imageEngineering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/DataTraining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/FaceDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/ImageDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/VideoDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/10.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/2.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/3.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/4.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/5.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/6.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/7.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/8.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/data/jm/9.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/juanjuan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facialRecognition/zcs.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="a9b45c75-34cb-4aed-935e-65b88d66e81f" name="更改" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FallingNote/-opencv-.git",
+    "accountId": "83cf65db-8712-4231-9559-c4f1452b228b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -86,6 +69,15 @@
       <option name="presentableId" value="Default" />
       <updated>1729760746720</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1729838531972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729838531972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
